@@ -1,0 +1,9 @@
+#include "timer0_pwm.h"
+void main()
+{
+	PWM_Timer0_Start(50);
+	while(1)
+	{
+
+	}
+}
